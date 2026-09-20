@@ -1,0 +1,242 @@
+{
+  "cdn.jsdelivr.net": {
+    "cached_at": 1789903284.5534625,
+    "result": {
+      "indicator": "cdn.jsdelivr.net",
+      "risk_score": 23,
+      "sources": [
+        {
+          "source": "virustotal",
+          "score": 23,
+          "simulated": true
+        },
+        {
+          "source": "abuseipdb",
+          "score": 23,
+          "simulated": true
+        },
+        {
+          "source": "otx",
+          "score": 23,
+          "simulated": true
+        }
+      ]
+    }
+  },
+  "api.github.com": {
+    "cached_at": 1789903284.5535674,
+    "result": {
+      "indicator": "api.github.com",
+      "risk_score": 18,
+      "sources": [
+        {
+          "source": "virustotal",
+          "score": 18,
+          "simulated": true
+        },
+        {
+          "source": "abuseipdb",
+          "score": 18,
+          "simulated": true
+        },
+        {
+          "source": "otx",
+          "score": 18,
+          "simulated": true
+        }
+      ]
+    }
+  },
+  "verify-account-now.xyz": {
+    "cached_at": 1789903284.553595,
+    "result": {
+      "indicator": "verify-account-now.xyz",
+      "risk_score": 78,
+      "sources": [
+        {
+          "source": "virustotal",
+          "score": 78,
+          "simulated": true
+        },
+        {
+          "source": "abuseipdb",
+          "score": 78,
+          "simulated": true
+        },
+        {
+          "source": "otx",
+          "score": 78,
+          "simulated": true
+        }
+      ]
+    }
+  },
+  "normal-cdn.example.com": {
+    "cached_at": 1789903284.5536127,
+    "result": {
+      "indicator": "normal-cdn.example.com",
+      "risk_score": 16,
+      "sources": [
+        {
+          "source": "virustotal",
+          "score": 16,
+          "simulated": true
+        },
+        {
+          "source": "abuseipdb",
+          "score": 16,
+          "simulated": true
+        },
+        {
+          "source": "otx",
+          "score": 16,
+          "simulated": true
+        }
+      ]
+    }
+  },
+  "mail.google.com": {
+    "cached_at": 1789903284.5536308,
+    "result": {
+      "indicator": "mail.google.com",
+      "risk_score": 18,
+      "sources": [
+        {
+          "source": "virustotal",
+          "score": 18,
+          "simulated": true
+        },
+        {
+          "source": "abuseipdb",
+          "score": 18,
+          "simulated": true
+        },
+        {
+          "source": "otx",
+          "score": 18,
+          "simulated": true
+        }
+      ]
+    }
+  },
+  "free-gift-cards.biz": {
+    "cached_at": 1789903284.5536556,
+    "result": {
+      "indicator": "free-gift-cards.biz",
+      "risk_score": 70,
+      "sources": [
+        {
+          "source": "virustotal",
+          "score": 70,
+          "simulated": true
+        },
+        {
+          "source": "abuseipdb",
+          "score": 70,
+          "simulated": true
+        },
+        {
+          "source": "otx",
+          "score": 70,
+          "simulated": true
+        }
+      ]
+    }
+  },
+  "google-drive-share.co": {
+    "cached_at": 1789903284.5536728,
+    "result": {
+      "indicator": "google-drive-share.co",
+      "risk_score": 4,
+      "sources": [
+        {
+          "source": "virustotal",
+          "score": 4,
+          "simulated": true
+        },
+        {
+          "source": "abuseipdb",
+          "score": 4,
+          "simulated": true
+        },
+        {
+          "source": "otx",
+          "score": 4,
+          "simulated": true
+        }
+      ]
+    }
+  },
+  "microsoft-support.info": {
+    "cached_at": 1789903284.5537136,
+    "result": {
+      "indicator": "microsoft-support.info",
+      "risk_score": 66,
+      "sources": [
+        {
+          "source": "virustotal",
+          "score": 66,
+          "simulated": true
+        },
+        {
+          "source": "abuseipdb",
+          "score": 66,
+          "simulated": true
+        },
+        {
+          "source": "otx",
+          "score": 66,
+          "simulated": true
+        }
+      ]
+    }
+  },
+  "login-secure-paypa1.com": {
+    "cached_at": 1789903284.5537324,
+    "result": {
+      "indicator": "login-secure-paypa1.com",
+      "risk_score": 91,
+      "sources": [
+        {
+          "source": "virustotal",
+          "score": 91,
+          "simulated": true
+        },
+        {
+          "source": "abuseipdb",
+          "score": 91,
+          "simulated": true
+        },
+        {
+          "source": "otx",
+          "score": 91,
+          "simulated": true
+        }
+      ]
+    }
+  },
+  "update-bank-alert.net": {
+    "cached_at": 1789903284.553806,
+    "result": {
+      "indicator": "update-bank-alert.net",
+      "risk_score": 57,
+      "sources": [
+        {
+          "source": "virustotal",
+          "score": 57,
+          "simulated": true
+        },
+        {
+          "source": "abuseipdb",
+          "score": 57,
+          "simulated": true
+        },
+        {
+          "source": "otx",
+          "score": 57,
+          "simulated": true
+        }
+      ]
+    }
+  }
+}

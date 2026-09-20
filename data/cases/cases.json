@@ -1,0 +1,1824 @@
+[
+  {
+    "case_id": "92f9d164",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "1de387ff-d9db-4124-962e-00445cd70f7f",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.0.251",
+    "dst_ip": "203.0.12.22",
+    "confidence": 59.8,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.08424,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "ac358edb",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "2cb66f83-a69f-447c-bda2-3f109e724a57",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.5.168",
+    "dst_ip": "203.0.11.114",
+    "confidence": 58.2,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.03546,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "0c39ee2b",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "5dc975e5-b2a0-4c53-b061-e3516f208b3b",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.0.14",
+    "dst_ip": "203.0.20.140",
+    "confidence": 58.2,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.11685,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "edba0c22",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "b8f47761-c0b5-45dd-9ca2-e68a11e4a2d1",
+    "indicator": "normal-cdn.example.com",
+    "src_ip": "10.0.5.185",
+    "dst_ip": "203.0.15.41",
+    "confidence": 42.3,
+    "tier": "medium",
+    "ti_risk_score": 16,
+    "ml_anomaly_score": -0.18558,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "ee50d6f6",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "a14db669-6767-4e50-a8e5-a5a02d8130a5",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.4.27",
+    "dst_ip": "203.0.2.139",
+    "confidence": 60.0,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.08055,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "612086dd",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "6a8ec018-2ad1-4e4e-9a66-8fba4c00358b",
+    "indicator": "microsoft-support.info",
+    "src_ip": "10.0.1.191",
+    "dst_ip": "203.0.14.143",
+    "confidence": 67.3,
+    "tier": "medium",
+    "ti_risk_score": 66,
+    "ml_anomaly_score": -0.18611,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "dd70732f",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "05ee0dd3-3cd9-4b98-ac11-79bce988859e",
+    "indicator": "login-secure-paypa1.com",
+    "src_ip": "10.0.2.201",
+    "dst_ip": "203.0.17.228",
+    "confidence": 79.8,
+    "tier": "high",
+    "ti_risk_score": 91,
+    "ml_anomaly_score": -0.18558,
+    "status": "auto_resolved",
+    "actions_taken": [
+      "auto-blocked indicator 'login-secure-paypa1.com' at perimeter firewall",
+      "opened P1 incident ticket",
+      "analyst notified"
+    ]
+  },
+  {
+    "case_id": "7a607dfb",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "8fc5fbe5-c44a-432d-acfb-e7148490f190",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.5.186",
+    "dst_ip": "203.0.6.95",
+    "confidence": 60.1,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.07866,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "0d5398d1",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "86b834dd-2578-40c1-ab4f-eac92ccb53f9",
+    "indicator": "microsoft-support.info",
+    "src_ip": "10.0.4.81",
+    "dst_ip": "203.0.13.85",
+    "confidence": 67.3,
+    "tier": "medium",
+    "ti_risk_score": 66,
+    "ml_anomaly_score": -0.18611,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "a08d5c86",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "ccc22147-f6f4-499b-9f8b-e577c6ada526",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.2.245",
+    "dst_ip": "203.0.14.158",
+    "confidence": 62.6,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.02853,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "08455b46",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "ee7970f5-3ba3-4e45-80bf-7aa24eaeffde",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.0.37",
+    "dst_ip": "203.0.4.61",
+    "confidence": 58.8,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.10399,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "0622cb82",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "bf3e96e9-ebce-4817-a43b-b2ee6c492280",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.0.54",
+    "dst_ip": "203.0.13.101",
+    "confidence": 58.0,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.04052,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "4b1fb390",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "44d962de-9b15-43f9-abb2-8d44120fcdfe",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.3.9",
+    "dst_ip": "203.0.12.88",
+    "confidence": 58.6,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.02709,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "e5e823a1",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "5e5a63ac-6f6c-4952-bb0a-f97912cbea23",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.4.171",
+    "dst_ip": "203.0.0.23",
+    "confidence": 59.7,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.08505,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "22cc202e",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "057ba689-6583-4623-8746-bc532bc9eaf2",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.5.31",
+    "dst_ip": "203.0.18.244",
+    "confidence": 56.5,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.07059,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "cb60b8fa",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "abe36c5e-0baa-4a71-8d36-182195458f64",
+    "indicator": "normal-cdn.example.com",
+    "src_ip": "10.0.5.71",
+    "dst_ip": "203.0.19.208",
+    "confidence": 42.7,
+    "tier": "medium",
+    "ti_risk_score": 16,
+    "ml_anomaly_score": -0.19305,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "135bac79",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "31f28442-fe90-4d42-a797-fab41a543646",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.5.49",
+    "dst_ip": "203.0.6.57",
+    "confidence": 60.7,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.06524,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "b2af6924",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "a4cedd89-f00c-4c99-80d8-28295f7516f2",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.0.225",
+    "dst_ip": "203.0.0.148",
+    "confidence": 55.2,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.0953,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "3d574e13",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "62ee9da0-96ba-4849-ab3b-65aff83fc6cc",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.4.154",
+    "dst_ip": "203.0.19.59",
+    "confidence": 55.6,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.08727,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "492be0a8",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "a0dbfa80-9ecc-428c-a7dd-75623c3c54da",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.3.22",
+    "dst_ip": "203.0.19.12",
+    "confidence": 57.1,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.05782,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "7d7ff603",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "be942b3d-57dd-47b5-90b8-287e3a79cd62",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.0.122",
+    "dst_ip": "203.0.11.106",
+    "confidence": 57.3,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.05326,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "fddddb80",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "6f524311-263b-4642-b95a-e57b0431ca08",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.4.11",
+    "dst_ip": "203.0.14.24",
+    "confidence": 56.1,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.07884,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "f80ee145",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "9ad1af0c-33f5-4fd0-af37-bf96b21cba15",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.3.107",
+    "dst_ip": "203.0.1.50",
+    "confidence": 61.0,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.06031,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "16977b9d",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "685ddb5b-f80d-48e1-bea1-746794d7b3b8",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.3.25",
+    "dst_ip": "203.0.7.217",
+    "confidence": 61.3,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.05393,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "bb49ff66",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "5a051cf0-d26e-431e-8bab-db1565d649bd",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.2.87",
+    "dst_ip": "203.0.17.197",
+    "confidence": 56.2,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.07698,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "c228ea4b",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "9c80aa22-ebbd-4091-8086-9b5e6fd8fc0b",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.0.83",
+    "dst_ip": "203.0.15.182",
+    "confidence": 57.1,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.05711,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "8e70fddc",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "10de39a9-9178-4665-9ceb-fa34787f2250",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.5.250",
+    "dst_ip": "203.0.4.21",
+    "confidence": 57.8,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.0444,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "aa9e81ae",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "ea9eca54-b10b-4a63-8a55-b334df3fbf2a",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.0.196",
+    "dst_ip": "203.0.20.182",
+    "confidence": 55.5,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.09085,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "8a222d0d",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "4c11c00f-7130-4779-ab9b-bb17bcb0e814",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.4.176",
+    "dst_ip": "203.0.7.129",
+    "confidence": 55.7,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.08636,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "66f0225f",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "4f9350c2-4f44-41c5-8e14-988a901073e8",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.2.175",
+    "dst_ip": "203.0.17.42",
+    "confidence": 56.7,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.06502,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "238e745f",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "0f7a8d11-d3ac-4124-89b3-0212286382e0",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.0.160",
+    "dst_ip": "203.0.17.85",
+    "confidence": 57.1,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.05736,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "4df3f5a4",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "8c003153-aff6-467e-9004-6880966f32f4",
+    "indicator": "normal-cdn.example.com",
+    "src_ip": "10.0.0.14",
+    "dst_ip": "203.0.10.64",
+    "confidence": 42.2,
+    "tier": "medium",
+    "ti_risk_score": 16,
+    "ml_anomaly_score": -0.18346,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "352e6ea9",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "4dade5f9-3ef0-4db8-9e46-f78a12b857d1",
+    "indicator": "login-secure-paypa1.com",
+    "src_ip": "10.0.5.223",
+    "dst_ip": "203.0.0.35",
+    "confidence": 80.1,
+    "tier": "high",
+    "ti_risk_score": 91,
+    "ml_anomaly_score": -0.19198,
+    "status": "auto_resolved",
+    "actions_taken": [
+      "auto-blocked indicator 'login-secure-paypa1.com' at perimeter firewall",
+      "opened P1 incident ticket",
+      "analyst notified"
+    ]
+  },
+  {
+    "case_id": "f7af21df",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "55494bab-b516-4f27-a7c0-2d9b734250f8",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.0.188",
+    "dst_ip": "203.0.16.79",
+    "confidence": 61.7,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.04612,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "b8488cba",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "9a32074c-93ec-446a-8789-0620e58acbf3",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.5.234",
+    "dst_ip": "203.0.14.20",
+    "confidence": 58.7,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.02661,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "eca10595",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "2b7bde84-1081-434d-b8cb-e801e93cc122",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.2.118",
+    "dst_ip": "203.0.16.156",
+    "confidence": 60.4,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.07135,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "678aca3b",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "c0541c20-23c0-4cef-bac0-4daf4eaafa05",
+    "indicator": "update-bank-alert.net",
+    "src_ip": "10.0.3.117",
+    "dst_ip": "203.0.7.107",
+    "confidence": 62.8,
+    "tier": "medium",
+    "ti_risk_score": 57,
+    "ml_anomaly_score": -0.18611,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "0fc420ae",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "5927a5bf-59aa-4ffc-9d75-f1365e946a6b",
+    "indicator": "normal-cdn.example.com",
+    "src_ip": "10.0.0.152",
+    "dst_ip": "203.0.17.145",
+    "confidence": 42.6,
+    "tier": "medium",
+    "ti_risk_score": 16,
+    "ml_anomaly_score": -0.19198,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "9646b09b",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "de5b3ee6-c809-41fc-a2ec-2991955f81ba",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.2.92",
+    "dst_ip": "203.0.3.149",
+    "confidence": 60.4,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.07269,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "ca6dd0a4",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "663ff4b1-233d-4da3-9863-61d4ae73aaac",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.0.90",
+    "dst_ip": "203.0.13.30",
+    "confidence": 61.6,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.04757,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "5d5c4fab",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "fa1df81c-2bff-4ede-b39f-10b6179a4377",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.0.3",
+    "dst_ip": "203.0.6.79",
+    "confidence": 59.1,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.0974,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "fe7aebb6",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "ee7f7cb9-edac-46d8-b3a7-cd1fa7297a80",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.1.35",
+    "dst_ip": "203.0.12.138",
+    "confidence": 55.9,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.08296,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "8d97b7b2",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "5362e43c-4472-466b-af77-51b90d4b1458",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.5.50",
+    "dst_ip": "203.0.10.156",
+    "confidence": 62.2,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.0357,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "1a747335",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "5c80bfa9-2b87-4280-9c46-5b33de757580",
+    "indicator": "normal-cdn.example.com",
+    "src_ip": "10.0.1.87",
+    "dst_ip": "203.0.2.151",
+    "confidence": 41.8,
+    "tier": "medium",
+    "ti_risk_score": 16,
+    "ml_anomaly_score": -0.17661,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "c1ef8ae9",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "895877e0-eef6-4379-8b50-1f0fc229c8c0",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.4.94",
+    "dst_ip": "203.0.0.94",
+    "confidence": 57.2,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.05688,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "68952eca",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "531b9eda-89df-48ed-b2c6-ceff3e86f0ff",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.3.120",
+    "dst_ip": "203.0.9.201",
+    "confidence": 63.1,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.01892,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "49fe8a4a",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "ea430d55-9c51-4d09-964d-1850b0649e4e",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.1.214",
+    "dst_ip": "203.0.13.25",
+    "confidence": 57.6,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.1272,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "ca0eeb27",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "64357ef5-05f8-4981-a4a2-071dfca2ef10",
+    "indicator": "update-bank-alert.net",
+    "src_ip": "10.0.0.75",
+    "dst_ip": "203.0.15.180",
+    "confidence": 63.2,
+    "tier": "medium",
+    "ti_risk_score": 57,
+    "ml_anomaly_score": -0.19305,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "0e0ebc56",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "fa821a61-0b01-4f1b-8224-0cb618486218",
+    "indicator": "normal-cdn.example.com",
+    "src_ip": "10.0.3.18",
+    "dst_ip": "203.0.3.216",
+    "confidence": 42.2,
+    "tier": "medium",
+    "ti_risk_score": 16,
+    "ml_anomaly_score": -0.18346,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "57e078ad",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "b486efea-b469-4e99-95a4-cf3bcea04208",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.4.7",
+    "dst_ip": "203.0.12.225",
+    "confidence": 62.1,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.03737,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "9015954a",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "e9c663bd-ef4c-4049-9d67-37d8c5a44387",
+    "indicator": "microsoft-support.info",
+    "src_ip": "10.0.1.189",
+    "dst_ip": "203.0.20.28",
+    "confidence": 67.2,
+    "tier": "medium",
+    "ti_risk_score": 66,
+    "ml_anomaly_score": -0.18452,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "4f048041",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "9940862e-5ffb-4d82-a9d1-6b69168cccb3",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.5.129",
+    "dst_ip": "203.0.11.238",
+    "confidence": 58.7,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.02663,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "b15b8308",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "26c9c35e-763a-4c86-b30e-4e4787951766",
+    "indicator": "normal-cdn.example.com",
+    "src_ip": "10.0.5.202",
+    "dst_ip": "203.0.14.10",
+    "confidence": 41.9,
+    "tier": "medium",
+    "ti_risk_score": 16,
+    "ml_anomaly_score": -0.17713,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "abbd1197",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "3f324b07-bc53-417b-b789-80b02120e715",
+    "indicator": "update-bank-alert.net",
+    "src_ip": "10.0.5.117",
+    "dst_ip": "203.0.11.97",
+    "confidence": 62.3,
+    "tier": "medium",
+    "ti_risk_score": 57,
+    "ml_anomaly_score": -0.17661,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "d3413654",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "98b8cf2b-a712-4623-878f-59d2d82019de",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.2.179",
+    "dst_ip": "203.0.15.53",
+    "confidence": 61.5,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.05065,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "58f1926e",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "3fab928b-fc95-4567-a7cd-5915c509394e",
+    "indicator": "login-secure-paypa1.com",
+    "src_ip": "10.0.0.81",
+    "dst_ip": "203.0.12.185",
+    "confidence": 79.8,
+    "tier": "high",
+    "ti_risk_score": 91,
+    "ml_anomaly_score": -0.18611,
+    "status": "auto_resolved",
+    "actions_taken": [
+      "auto-blocked indicator 'login-secure-paypa1.com' at perimeter firewall",
+      "opened P1 incident ticket",
+      "analyst notified"
+    ]
+  },
+  {
+    "case_id": "abce342e",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "f91052f1-5e66-4090-917a-b850dcf0cc72",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.5.232",
+    "dst_ip": "203.0.19.88",
+    "confidence": 60.9,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.06185,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "2564a9a5",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "3cce4edb-6704-4a36-baa5-39498099117c",
+    "indicator": "update-bank-alert.net",
+    "src_ip": "10.0.4.108",
+    "dst_ip": "203.0.19.165",
+    "confidence": 63.0,
+    "tier": "medium",
+    "ti_risk_score": 57,
+    "ml_anomaly_score": -0.19038,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "3b0d1dc7",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "a751a63b-6df9-4bf4-864c-424a814eb4ce",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.5.82",
+    "dst_ip": "203.0.6.197",
+    "confidence": 60.8,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.06383,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "e6e7ae4d",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "7ce8d99d-e9ba-4aac-9717-eee1d6f22111",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.4.119",
+    "dst_ip": "203.0.7.57",
+    "confidence": 59.4,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.01232,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "682fe710",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "d4ab119b-c45c-4578-8504-fa5d2a5bc49e",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.2.205",
+    "dst_ip": "203.0.10.144",
+    "confidence": 57.8,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.04374,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "dab177e3",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "a87298ba-e8b7-48a8-bc6e-e97d43dda796",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.5.217",
+    "dst_ip": "203.0.9.153",
+    "confidence": 60.6,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.06812,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "2646e290",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "e23ff2d2-bfe2-4a8e-a907-f7a812644fd8",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.3.225",
+    "dst_ip": "203.0.1.182",
+    "confidence": 61.5,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.04974,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "7e6cd128",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "6f19912d-f87c-4d05-897e-7216ab9b15f8",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.5.72",
+    "dst_ip": "203.0.9.33",
+    "confidence": 62.2,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.03506,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "d468a50c",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "508be77f-0ac0-4af2-aaf8-a1418135e9a7",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.2.185",
+    "dst_ip": "203.0.15.27",
+    "confidence": 57.3,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.0546,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "586cbeca",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "06e8abdf-ee98-4d9a-913d-06455d7b3499",
+    "indicator": "update-bank-alert.net",
+    "src_ip": "10.0.2.84",
+    "dst_ip": "203.0.9.167",
+    "confidence": 62.8,
+    "tier": "medium",
+    "ti_risk_score": 57,
+    "ml_anomaly_score": -0.18611,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "830ca96b",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "ada7d3c7-79bd-4958-92e7-372c9f535dda",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.4.29",
+    "dst_ip": "203.0.10.74",
+    "confidence": 57.4,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.13264,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "5096bc84",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "d2d7b555-19a2-43e4-9bd4-6e00d25f392a",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.2.241",
+    "dst_ip": "203.0.7.3",
+    "confidence": 56.3,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.07404,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "f71a9140",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "9044b703-1adf-41cd-b4f3-f257530b9c9b",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.3.174",
+    "dst_ip": "203.0.9.187",
+    "confidence": 60.5,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.07009,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "84b1b994",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "88ad8580-c623-4c7d-a4fc-2d4f48738544",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.4.198",
+    "dst_ip": "203.0.0.63",
+    "confidence": 51.7,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.16578,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "c8f504d8",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "aa09ca54-e33c-4ba8-910d-5d561925c303",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.3.63",
+    "dst_ip": "203.0.7.78",
+    "confidence": 60.0,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.0807,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "36f8615f",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "888b6001-afe4-48d2-bf1d-fe3e02eaf930",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.4.150",
+    "dst_ip": "203.0.13.77",
+    "confidence": 62.3,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.03455,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "65d0d538",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "c12e95aa-8a94-4eb7-9a36-781f1904fc08",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.5.247",
+    "dst_ip": "203.0.1.136",
+    "confidence": 60.6,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.06809,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "718feb8a",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "7efefe1b-62cc-46be-bb22-8737c5f7eba3",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.4.107",
+    "dst_ip": "203.0.0.6",
+    "confidence": 62.4,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.03159,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "95968b55",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "a67d64a6-1b62-41fe-9e62-6300a560ca51",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.3.143",
+    "dst_ip": "203.0.15.16",
+    "confidence": 55.0,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.10091,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "561daaf1",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "6fb0e5e9-8cfa-49ae-93e6-15772f9b2138",
+    "indicator": "microsoft-support.info",
+    "src_ip": "10.0.0.248",
+    "dst_ip": "203.0.6.152",
+    "confidence": 66.1,
+    "tier": "medium",
+    "ti_risk_score": 66,
+    "ml_anomaly_score": -0.16204,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "3de0614d",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "84b22445-d0ac-4c4b-a05f-aa8c3c56edba",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.3.60",
+    "dst_ip": "203.0.11.143",
+    "confidence": 57.0,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.05991,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "7d4026fb",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "e9721dc1-2664-4162-8e01-752857b8f533",
+    "indicator": "login-secure-paypa1.com",
+    "src_ip": "10.0.0.24",
+    "dst_ip": "203.0.11.143",
+    "confidence": 79.3,
+    "tier": "high",
+    "ti_risk_score": 91,
+    "ml_anomaly_score": -0.17661,
+    "status": "auto_resolved",
+    "actions_taken": [
+      "auto-blocked indicator 'login-secure-paypa1.com' at perimeter firewall",
+      "opened P1 incident ticket",
+      "analyst notified"
+    ]
+  },
+  {
+    "case_id": "42113e1a",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "ebca5fd3-516e-4a07-bb5f-0b73012bae8b",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.1.18",
+    "dst_ip": "203.0.5.113",
+    "confidence": 53.6,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.12836,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "6d115416",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "fd7740f9-496c-4c05-b246-7e519535ce79",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.4.159",
+    "dst_ip": "203.0.6.119",
+    "confidence": 57.1,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.05783,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "a70fcd4a",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "0a17ae4e-f689-4cb5-b039-25248d38bbec",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.5.251",
+    "dst_ip": "203.0.19.36",
+    "confidence": 56.7,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.06664,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "b7b7df7c",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "f89637cf-d8e5-48b9-9a57-4ef10f9b30a0",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.1.153",
+    "dst_ip": "203.0.17.48",
+    "confidence": 61.7,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.04665,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "74a767bb",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "c60e82c2-2091-4d51-8d26-c176ae2adb9a",
+    "indicator": "login-secure-paypa1.com",
+    "src_ip": "10.0.3.174",
+    "dst_ip": "203.0.15.37",
+    "confidence": 79.8,
+    "tier": "high",
+    "ti_risk_score": 91,
+    "ml_anomaly_score": -0.18611,
+    "status": "auto_resolved",
+    "actions_taken": [
+      "auto-blocked indicator 'login-secure-paypa1.com' at perimeter firewall",
+      "opened P1 incident ticket",
+      "analyst notified"
+    ]
+  },
+  {
+    "case_id": "f87ac301",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "ebcdd00d-9a15-4ed5-94c3-da0503830dcd",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.3.151",
+    "dst_ip": "203.0.12.138",
+    "confidence": 59.5,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.09022,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "edfa332c",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "913d9d86-8db7-4739-994a-17b9d10c1d06",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.4.165",
+    "dst_ip": "203.0.2.29",
+    "confidence": 62.2,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.03528,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "0646c56f",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "d196f2bb-a690-417f-bd67-ffbe2d606fe5",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.5.152",
+    "dst_ip": "203.0.16.40",
+    "confidence": 58.0,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.03959,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "64d48253",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "4fc9a300-bf17-4aba-ad1d-2f09a37a9bcc",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.2.19",
+    "dst_ip": "203.0.9.13",
+    "confidence": 56.7,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.06601,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "e9c46b32",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "49a5809b-18d7-42e6-8968-d2cc247d5385",
+    "indicator": "normal-cdn.example.com",
+    "src_ip": "10.0.1.86",
+    "dst_ip": "203.0.17.111",
+    "confidence": 42.2,
+    "tier": "medium",
+    "ti_risk_score": 16,
+    "ml_anomaly_score": -0.18452,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "c8fd87e4",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "e5e8d642-fb25-4956-ada1-847758247f4a",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.1.117",
+    "dst_ip": "203.0.18.111",
+    "confidence": 59.2,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.09622,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "5ed85b23",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "cf88519d-2e53-413a-aa09-baaf754e1178",
+    "indicator": "normal-cdn.example.com",
+    "src_ip": "10.0.1.95",
+    "dst_ip": "203.0.10.52",
+    "confidence": 41.5,
+    "tier": "medium",
+    "ti_risk_score": 16,
+    "ml_anomaly_score": -0.16929,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "54d19295",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "45d8046f-5ffb-4491-bc75-3f2710fb0139",
+    "indicator": "normal-cdn.example.com",
+    "src_ip": "10.0.3.152",
+    "dst_ip": "203.0.3.91",
+    "confidence": 42.3,
+    "tier": "medium",
+    "ti_risk_score": 16,
+    "ml_anomaly_score": -0.18611,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "dcdc7135",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "8fe871d4-1ff4-49b6-abf7-d9ae89472880",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.5.139",
+    "dst_ip": "203.0.20.240",
+    "confidence": 56.2,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.07533,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "dc264494",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "a94137a7-f8c8-4068-a7f8-32d80c4fe6e9",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.3.44",
+    "dst_ip": "203.0.2.146",
+    "confidence": 57.7,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.04675,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "914201f4",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "81ef1fa5-e19a-4f31-b607-fe1f2b450b99",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.4.192",
+    "dst_ip": "203.0.15.142",
+    "confidence": 56.7,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.06654,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "0176691c",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "378a61be-67ff-496e-9d66-a2b8b7d8cf41",
+    "indicator": "login-secure-paypa1.com",
+    "src_ip": "10.0.5.114",
+    "dst_ip": "203.0.17.57",
+    "confidence": 79.4,
+    "tier": "high",
+    "ti_risk_score": 91,
+    "ml_anomaly_score": -0.17818,
+    "status": "auto_resolved",
+    "actions_taken": [
+      "auto-blocked indicator 'login-secure-paypa1.com' at perimeter firewall",
+      "opened P1 incident ticket",
+      "analyst notified"
+    ]
+  },
+  {
+    "case_id": "6f88137b",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "ff56a719-dad1-4c60-9e9a-23fde042436b",
+    "indicator": "microsoft-support.info",
+    "src_ip": "10.0.0.114",
+    "dst_ip": "203.0.3.200",
+    "confidence": 67.6,
+    "tier": "medium",
+    "ti_risk_score": 66,
+    "ml_anomaly_score": -0.19198,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "ce0726e0",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "f80445dc-696d-4db1-a0a6-08142090c27c",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.5.210",
+    "dst_ip": "203.0.3.36",
+    "confidence": 60.7,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.06677,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "5559ad6f",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "867ff10f-d1eb-46b2-9107-957fe906ab1d",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.0.33",
+    "dst_ip": "203.0.5.114",
+    "confidence": 54.8,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.10482,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "32b4d833",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "f74d4d0f-210b-4212-8a5a-53f41967ed54",
+    "indicator": "microsoft-support.info",
+    "src_ip": "10.0.0.169",
+    "dst_ip": "203.0.11.66",
+    "confidence": 67.7,
+    "tier": "medium",
+    "ti_risk_score": 66,
+    "ml_anomaly_score": -0.19305,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "565f50f5",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "dde759c1-9f95-4cb1-96b3-3661eb8756b4",
+    "indicator": "login-secure-paypa1.com",
+    "src_ip": "10.0.0.180",
+    "dst_ip": "203.0.10.211",
+    "confidence": 79.8,
+    "tier": "high",
+    "ti_risk_score": 91,
+    "ml_anomaly_score": -0.18611,
+    "status": "auto_resolved",
+    "actions_taken": [
+      "auto-blocked indicator 'login-secure-paypa1.com' at perimeter firewall",
+      "opened P1 incident ticket",
+      "analyst notified"
+    ]
+  },
+  {
+    "case_id": "7d35475c",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "2a5cfd80-6d26-4039-9384-cd462e88cd42",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.0.158",
+    "dst_ip": "203.0.20.44",
+    "confidence": 62.9,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.02118,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "f0790ed6",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "ccb75cbc-219e-43d7-87b0-76771a6c40b2",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.1.193",
+    "dst_ip": "203.0.12.77",
+    "confidence": 63.3,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.01459,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "d9376745",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "b6c57896-92ba-4bce-a8cc-d1e815d91b20",
+    "indicator": "normal-cdn.example.com",
+    "src_ip": "10.0.3.110",
+    "dst_ip": "203.0.12.23",
+    "confidence": 42.1,
+    "tier": "medium",
+    "ti_risk_score": 16,
+    "ml_anomaly_score": -0.18187,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "2feb353a",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "563b5102-c8c5-4f81-9d75-3d4928b13028",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.0.118",
+    "dst_ip": "203.0.19.157",
+    "confidence": 55.9,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.08266,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "3bc80bfc",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "d6e4045f-a992-4a51-b9ef-cff8ca734535",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.2.16",
+    "dst_ip": "203.0.15.221",
+    "confidence": 56.7,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.14652,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "dc96b702",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "e315b3d2-6bbf-4c5c-a080-1914b5d2640a",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.0.246",
+    "dst_ip": "203.0.12.19",
+    "confidence": 60.6,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.06742,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "f068bc09",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "c321373d-a89c-4b7e-9fcc-dcfbcbf4d7c7",
+    "indicator": "microsoft-support.info",
+    "src_ip": "10.0.1.117",
+    "dst_ip": "203.0.9.120",
+    "confidence": 66.3,
+    "tier": "medium",
+    "ti_risk_score": 66,
+    "ml_anomaly_score": -0.16566,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "2b7f1143",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "eb4c009f-af3a-41f4-89d1-7753da2ee1a2",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.4.193",
+    "dst_ip": "203.0.17.65",
+    "confidence": 54.5,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.10911,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "8573a4be",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "541d063e-168c-4cf5-ad31-4100c1f295a3",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.5.111",
+    "dst_ip": "203.0.5.92",
+    "confidence": 56.7,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.0654,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "edb19fad",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "130906bb-d5e6-4ae9-b66c-0a9b350378f4",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.1.167",
+    "dst_ip": "203.0.9.129",
+    "confidence": 60.1,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.07725,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "7da266ce",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "d552d733-5be5-45d1-b2eb-3eb6f5a8a767",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.2.235",
+    "dst_ip": "203.0.18.130",
+    "confidence": 59.1,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.017,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "3db0b936",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "34645267-c4c8-4841-9c65-0372bd225ddb",
+    "indicator": "free-gift-cards.biz",
+    "src_ip": "10.0.0.25",
+    "dst_ip": "203.0.1.61",
+    "confidence": 56.4,
+    "tier": "medium",
+    "ti_risk_score": 70,
+    "ml_anomaly_score": 0.07276,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  },
+  {
+    "case_id": "2425ba9a",
+    "created_at": "2026-09-20T11:21:30",
+    "event_id": "5514b57b-31e8-4f6b-b055-d94dfaf43eb3",
+    "indicator": "verify-account-now.xyz",
+    "src_ip": "10.0.1.165",
+    "dst_ip": "203.0.18.28",
+    "confidence": 62.8,
+    "tier": "medium",
+    "ti_risk_score": 78,
+    "ml_anomaly_score": 0.02402,
+    "status": "pending_review",
+    "actions_taken": [
+      "queued for analyst review"
+    ]
+  }
+]

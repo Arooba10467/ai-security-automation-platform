@@ -1,0 +1,74 @@
+# =============================================================================
+# AI Security Automation Platform — Central Configuration
+# =============================================================================
+
+paths:
+  raw_logs_dir: "data/raw_logs"
+  ingest_queue: "data/queue/01_ingested.jsonl"      # Data Ingestion -> Threat Intel
+  enriched_queue: "data/queue/02_enriched.jsonl"    # Threat Intel   -> ML Detection
+  scored_queue: "data/queue/03_scored.jsonl"        # ML Detection   -> SOAR
+  ti_cache: "data/cache/ti_cache.json"
+  cases_db: "data/cases/cases.json"
+  isolation_forest_model: "models/isolation_forest_model.pkl"
+  standard_scaler: "models/standard_scaler.pkl"
+  logs_dir: "logs"
+
+logging:
+  level: "INFO"
+  file: "logs/platform.log"
+  format: "%(asctime)s | %(levelname)-8s | %(name)s | %(message)s"
+
+ingestion:
+  batch_size: 200
+  supported_formats: ["csv", "json", "jsonl"]
+
+threat_intel:
+  # API keys are read from environment variables, never hard-coded.
+  # If a key is missing, the enricher automatically falls back to
+  # cached / simulated TI data so the pipeline still runs end-to-end.
+  virustotal:
+    enabled: true
+    api_key_env: "VT_API_KEY"
+    base_url: "https://www.virustotal.com/api/v3"
+  abuseipdb:
+    enabled: true
+    api_key_env: "ABUSEIPDB_API_KEY"
+    base_url: "https://api.abuseipdb.com/api/v2"
+  alienvault_otx:
+    enabled: true
+    api_key_env: "OTX_API_KEY"
+    base_url: "https://otx.alienvault.com/api/v1"
+  cache_ttl_hours: 24
+  risk_weights:
+    virustotal: 0.4
+    abuseipdb: 0.35
+    otx: 0.25
+
+ml_detection:
+  feature_cols: ["dur", "spkts", "dpkts", "sbytes", "dbytes", "rate"]
+  contamination: 0.1
+  # anomaly_score below this (more negative = more anomalous) raises an alert
+  alert_threshold: 0.0
+
+soar:
+  # Overall confidence = weighted blend of TI risk score (0-100) and
+  # ML anomaly signal (rescaled 0-100).
+  weights:
+    ti_risk: 0.5
+    ml_anomaly: 0.5
+  thresholds:
+    high_confidence: 75     # -> fully automated playbook
+    medium_confidence: 40   # -> human-in-the-loop analyst queue
+                             # below medium -> logged only, no case opened
+  notify:
+    smtp_enabled: false      # set true + configure below to actually send mail
+    smtp_host: "smtp.gmail.com"
+    smtp_port: 587
+    smtp_user_env: "SOAR_SMTP_USER"
+    smtp_pass_env: "SOAR_SMTP_PASS"
+    analyst_email: "soc-analyst@example.com"
+
+dashboard:
+  title: "AI Security Automation Platform"
+  refresh_seconds: 10
+  page_icon: "🛡️"
