@@ -8,11 +8,11 @@ and a live Streamlit dashboard.
 
 ## Snapshots
 <p align="center">
-  <img src="ss/Screenshot%20(851).png" alt="Screenshot 851" width="800"><br><br>
-  <img src="ss/Screenshot%20(852).png" alt="Screenshot 852" width="800"><br><br>
-  <img src="ss/Screenshot%20(853).png" alt="Screenshot 853" width="800"><br><br>
-  <img src="ss/Screenshot%20(854).png" alt="Screenshot 854" width="800"><br><br>
-  <img src="ss/Screenshot%20(855).png" alt="Screenshot 855" width="800">
+  <img src="ss/Screenshot%202026-09-22%20182616.png" alt="Screenshot 182616" width="800"><br><br>
+  <img src="ss/Screenshot%202026-09-22%20182708.png" alt="Screenshot 182708" width="800"><br><br>
+  <img src="ss/Screenshot%202026-09-22%20182734.png" alt="Screenshot 182734" width="800"><br><br>
+  <img src="ss/Screenshot%202026-09-22%20182753.png" alt="Screenshot 182753" width="800"><br><br>
+  <img src="ss/Screenshot%202026-09-22%20182817.png" alt="Screenshot 182817" width="800">
 </p>
 
 ## Architecture
